@@ -1,6 +1,8 @@
 # clock_app
 
-A new Flutter project.
+inspired by the flutter challenge on clock, this is still very far away but its a start.
+
+![clockappui](https://user-images.githubusercontent.com/83401880/229480829-611dac27-dccd-498b-b6f6-09330fb94a4e.png)
 
 ## Getting Started
 
@@ -14,3 +16,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
